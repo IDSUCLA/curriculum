@@ -13,6 +13,6 @@
 
 [TR_Plot Analysis Guide.pdf](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Plot Analysis Guide.pdf)
 
-[TR_Statistical Questions.pdf](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Statistical Questions.pdf)
+[TR_Materials_List.pdf](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Materials_List.pdf)
 
 [TR_Time Use Data Collection Template .pdf](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Time Use Data Collection Template .pdf)
