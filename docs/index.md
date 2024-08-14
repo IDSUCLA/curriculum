@@ -31,10 +31,10 @@
 
 
 # Introduction to Data Science Curriculum
-!!! warning "NOTE: You are viewing version 6.2 of the IDS curriculum. Version 7.0 is coming soon, but for now you can download a PDF of version 7.0 here: [https://www.idsucla.org](https://www.idsucla.org "https://www.idsucla.org"){:target="_blank"}."
 
 ![IDS-logo](img/IDS-logo.png)
 
+(version 6.2 for LAUSD)
 **Robert Gould**
 
 **Suyen Machado**
