@@ -34,7 +34,8 @@
 
 ![IDS-logo](img/IDS-logo.png)
 
-(version 6.2 for LAUSD)
+*(version 6.2 for LAUSD)*
+
 **Robert Gould**
 
 **Suyen Machado**
